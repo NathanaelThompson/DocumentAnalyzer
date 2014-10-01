@@ -1,0 +1,13 @@
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\DocumentScannerUploader.exe.config
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\DocumentScannerUploader.exe
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\DocumentScannerUploader.pdb
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\itextsharp.dll
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentAnalyzer.csproj.GenerateResource.Cache
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.exe
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.pdb
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentAnalyzer.InputForm.resources
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentAnalyzer.Properties.Resources.resources
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentAnalyzer\DocumentAnalyzer\bin\Debug\DocumentScannerUploader.exe.config
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentAnalyzer\DocumentAnalyzer\obj\Debug\DocumentScannerUploader.exe
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentAnalyzer\DocumentAnalyzer\obj\Debug\DocumentScannerUploader.pdb

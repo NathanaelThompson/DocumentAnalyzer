@@ -1,0 +1,10 @@
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\DocumentScannerUploader.exe.config
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\DocumentScannerUploader.exe
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\DocumentScannerUploader.pdb
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\bin\Debug\itextsharp.dll
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.csprojResolveAssemblyReference.cache
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.InputForm.resources
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.Properties.Resources.resources
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.csproj.GenerateResource.Cache
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.exe
+C:\Users\nate\Documents\Visual Studio 2012\Projects\CSharpOnVS2012\DocumentScannerUploader\DocumentScannerUploader\obj\Debug\DocumentScannerUploader.pdb
